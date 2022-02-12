@@ -1,0 +1,2 @@
+# SGdownloader
+SuicideGirls' mass downloader
